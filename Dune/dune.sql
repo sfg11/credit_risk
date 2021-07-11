@@ -1,1 +1,0 @@
-select * from ethereum.blocks limit 100;
